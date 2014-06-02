@@ -1,4 +1,4 @@
-lazyLoadingDemo
+Angular Routing Demo
 ===============
 
 Demo project for the israel angular conference (NG-CONF).   
